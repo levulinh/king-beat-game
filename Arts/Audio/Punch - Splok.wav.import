@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://baedrobcpc6xu"
+path="res://.godot/imported/Punch - Splok.wav-e8ba4478103a8620077adc7e87d6b9e8.sample"
+
+[deps]
+
+source_file="res://Arts/Audio/Punch - Splok.wav"
+dest_files=["res://.godot/imported/Punch - Splok.wav-e8ba4478103a8620077adc7e87d6b9e8.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

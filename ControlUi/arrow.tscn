@@ -1,0 +1,14 @@
+[gd_scene load_steps=3 format=3 uid="uid://c1ucg4lk60gsl"]
+
+[ext_resource type="Script" path="res://ControlUi/arrow.gd" id="1_2eb5u"]
+[ext_resource type="Texture2D" uid="uid://cug2noy8gyaed" path="res://Arts/UI/icons.png" id="1_rh3yv"]
+
+[node name="Arrow" type="Node2D"]
+script = ExtResource("1_2eb5u")
+direction = "up"
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(4, 4)
+texture = ExtResource("1_rh3yv")
+region_enabled = true
+region_rect = Rect2(242, 67, 12, 11)

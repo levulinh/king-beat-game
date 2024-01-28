@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://i2ksw6a0hefa"
+path="res://.godot/imported/Retro - Chip Power.wav-139a130148ca663adb666bebbbae36aa.sample"
+
+[deps]
+
+source_file="res://Arts/Audio/Retro - Chip Power.wav"
+dest_files=["res://.godot/imported/Retro - Chip Power.wav-139a130148ca663adb666bebbbae36aa.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
